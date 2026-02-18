@@ -4,7 +4,7 @@
     align-items: flex-start;
     gap: 10px;
     width: fit-content; 
-    margin: 0 70px;
+    margin: 0 65px;
 }
 
 .control-item {
@@ -14,22 +14,22 @@
 }
 
 .control-item label {
-    font-family: 'Fredoka', sans-serif;
-    font-weight: 500;
-    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
     color: #1d1d1f;
     line-height: normal;
     align-self: center;
 }
 
 .value-input {
-    font-family: 'Fredoka', sans-serif;
-    font-weight: 500;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
     width: 45px;
     height: 30px;
     padding: 0;
     border-radius: 100px;
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
     border: 1px solid black; 
 }
@@ -113,6 +113,6 @@
         align-items: flex-start;
         gap: 10px;
         width: fit-content; 
-        margin: 0 80px;
+        margin: 0 85px;
     }
 }
